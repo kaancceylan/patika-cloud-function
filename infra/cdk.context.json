@@ -1,0 +1,18 @@
+{
+  "dev": {
+    "account": "238757817381",
+    "region": "eu-central-1",
+    "appEnv": "dev",
+    "virginiaACMCertArn": "",
+    "memorySizeInMb": 128,
+    "timeoutInSec": 30
+  },
+  "prod": {
+    "account": "238757817381",
+    "region": "eu-central-1",
+    "appEnv": "prod",
+    "virginiaACMCertArn": "",
+    "memorySizeInMb": 1024,
+    "timeoutInSec": 60
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2018",
+    "outDir": "./build"
+  },
+  "lib": [
+    "es2018"
+  ],
+  "include": [
+    "**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "infra"
+  ]
+}
